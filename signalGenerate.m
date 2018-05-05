@@ -1,9 +1,9 @@
 count = 0;
 
 D = 0;
-TEMP_SCALE = 10;
+TEMP_SCALE = 6;
 IRR_SCALE = 10;
-TEMP_MAX = 35;
+TEMP_MAX = 29;
 TEMP_MIN = 20;
 IRR_MAX = 1000;
 IRR_MIN = 0;
